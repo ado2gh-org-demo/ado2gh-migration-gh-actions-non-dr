@@ -1,3 +1,2 @@
 org,teamproject,repo,github_org,github_repo,gh_repo_visibility
-contosodevopstest,sample-repo-testing,sample1,ADO2GH-Migration,sample1,private
-contosodevopstest,sample-repo-testing,sample2,ADO2GH-Migration,sample2,private
+mpauljaison,ado2gh-demo,python-app,ado2gh-org-demo,python-app-sep23,private
